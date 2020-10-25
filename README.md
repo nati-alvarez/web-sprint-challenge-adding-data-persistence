@@ -47,12 +47,17 @@ Commit your code regularly and meaningfully. This helps both you (in case you ev
 Be prepared to demonstrate your understanding of this week's concepts by answering questions on the following topics. You might prepare by writing down your own answers before hand.
 
 1. Explain the difference between `Relational Databases` and `SQL`.
+A relation database is a database that has data that relates to other data by tables and foreign keys, SQL is just a language
+used to interact with most Relational datbases
 
 2. Why do tables need a `primary key`?
+A primary key gives us a way to distinguish one entry from any of the others in a table
 
 3. What is the name given to a table column that references the primary key on another table.
+Foreign key
 
 4. What do we need in order to have a _many to many_ relationship between two tables.
+A join table
 
 You are expected to be able to answer questions in these areas. Your responses contribute to your Sprint Challenge grade.
 
